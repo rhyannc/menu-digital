@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #FFEDD5;
+    background-color: #34265e;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -34,11 +34,11 @@ header h1{
 }
 
 header h1 span{
-    color: #995000;
+    color: #643cbb;
 }
 
 header p{
-    color: rgba(0, 0, 0, 0.7);
+    color: #707c84;
     font-size: 14px;
     line-height: 16px;
 }
@@ -50,7 +50,7 @@ section {
 }
 
 section h2{
-    background-color: #FED7AA;
+    background-color: #643cbb;
     padding: 8px 16px;
     text-align: center;
 
@@ -77,7 +77,7 @@ li .details{
 }
 
 .details p{
-    color: rgba(0, 0, 0, 0.6);
+    color: #707c84;
     font-size: 14px;
     line-height: 21px;
 }
@@ -88,6 +88,6 @@ h1,h2,h3,
 .price{
     font-family: 'Roboto Serif', Serif;
     text-transform: uppercase;
-    color: #2D2C2A;
+    color: #aa9abe;
 }
 
